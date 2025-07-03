@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Roshan 👋
 
-<!--
-**roshan669/roshan669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student developer who’s passionate about building things that matter—especially if it means coding late into the night, fueled by curiosity (and the occasional coffee ☕).
 
-Here are some ideas to get you started:
+**What I do best:**
+- Crafting seamless mobile apps with React Native & Expo
+- Architecting snappy backends with Node.js & Express
+- Wrangling JavaScript for both web and mobile
+- Making databases do their magic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects I’m proud of:**
+- **Chatty** – A React Native chat app focused on real-time, delightful conversations
+- **New UOtt** – Free movies and webseries streaming application
+
+My happy place is turning ideas into reality, making software that’s both useful and joyful to use. I believe in minimalist design, clean code, and never losing the spark of fun—because building cool stuff should feel cool, too.
+
+When I’m not coding, you’ll probably find me exploring new tech, collaborating on open source, or just doodling app ideas on a napkin.
+
+Let’s connect and make something awesome together!
+
+[LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
+[GitHub](https://github.com/roshan669)  
