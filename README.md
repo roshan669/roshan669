@@ -10,7 +10,7 @@ I’m a student developer who’s passionate about building things that matter�
 
 **Projects I’m proud of:**
 - **Chatty** – A React Native chat app focused on real-time, delightful conversations
-- **New UOtt** – Free movies and webseries streaming application
+- **NetStream** – Free movies and webseries streaming application
 
 My happy place is turning ideas into reality, making software that’s both useful and joyful to use. I believe in minimalist design, clean code, and never losing the spark of fun—because building cool stuff should feel cool, too.
 
