@@ -8,6 +8,11 @@
 </div>
 
 # Hi there, I'm Roshan! 👋
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/roshandhami">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a><a target="_blank" rel="noopener noreferrer" href="https://lookforme.online">
+<img src="https://img.shields.io/badge/portfolio-100000?style=for-the-badge&logo=portfolio&logoColor=white" />
+</a>
 
 #### I'm a student developer who believes in turning caffeine into clean, beautiful code. ☕ My happy place is bringing ideas to life, whether it's a mobile app that connects people or a backend that just works. I'm fueled by curiosity and the endless pursuit of building something awesome.
 
@@ -20,36 +25,47 @@
 
 #### Web Weaver: Wielding JavaScript to build for both web and mobile 🕸️
 
-#### Database Dynamo: Making databases like MongoDB & Firebase do their magic ✨
+#### Database Dynamo: Making databases like Postgres, MongoDB & Firebase do their magic ✨
 
 # 🏆 Here are a couple of things I've built that I'm really excited about.
 
 <table>
 <tr>
-<td width="33%">
-<h3 align="center">Chatty</h3>
+  <td width="25%">
+<h3 align="center">EcoMoney</h3>
 <div align="center">
-<img src="https://github.com/roshan669/React-native-apps/blob/master/chatty/assets/images/icon.png" alt="Chatty Icon" style="border-radius: 50%;" height="50" width="50" />
-<p>A real-time chat application built with React Native, focused on delivering delightful and instant conversations.</p>
-<a href="https://github.com/roshan669/React-native-apps/tree/master/chatty">View Project</a>
+<img src="https://github.com/roshan669/Ecomoney/blob/master/assets/images/adaptive-icon.png?raw=true" alt="Chatty Icon" style="border-radius: 50%;" height="50" width="50" />
+<p>A Expense Tracker app.</p>
+  <a target="_blank" href="https://play.google.com/store/apps/details?id=com.newArch.ecomoney">PlayStore</a><br>
+<a target="_blank" href="https://github.com/roshan669/Ecomoney">View Project</a>
 </div>
 </td>
-<td width="33%">
-<h3 align="center">NetStream</h3>
-<div align="center">
-<img src="https://github.com/roshan669/Uott/blob/master/assets/images/icon.png" alt="NetStream Icon" style="border-radius: 50%;" height="50" width="50" />
-<p>A free movie and web series streaming application, because everyone deserves a good movie night.</p>
-<a href="https://github.com/roshan669/Uott">View Project</a>
-</div>
-</td>
-<td width="33%">
+  <td width="25%">
 <h3 align="center">TimerKeeper</h3>
 <div align="center">
 <img src="https://github.com/roshan669/TimeKeeper/blob/master/assets/images/icon.png" alt="Chatty Icon" style="border-radius: 50%;" height="50" width="50" />
 <p>A Time and date tracking app ,because you cannot afford to forget anything.</p>
-<a href="https://github.com/roshan669/TimeKeeper">View Project</a>
+  <a href="https://play.google.com/store/apps/details?id=com.newArch.timekeeper">PlayStore</a><br>
+<a target="_blank" href="https://github.com/roshan669/TimeKeeper">View Project</a>
 </div>
 </td>
+<td width="25%">
+<h3 align="center">Chatty</h3>
+<div align="center">
+<img src="https://github.com/roshan669/React-native-apps/blob/master/chatty/assets/images/icon.png" alt="Chatty Icon" style="border-radius: 50%;" height="50" width="50" />
+<p>A real-time chat application built with React Native, focused on delivering delightful and instant conversations.</p>
+<a target="_blank" href="https://github.com/roshan669/React-native-apps/tree/master/chatty">View Project</a>
+</div>
+</td>
+<td width="25%">
+<h3 align="center">NetStream</h3>
+<div align="center">
+<img src="https://github.com/roshan669/Uott/blob/master/assets/images/icon.png" alt="NetStream Icon" style="border-radius: 50%;" height="50" width="50" />
+<p>A free movie and web series streaming application, because everyone deserves a good movie night.</p>
+<a target="_blank" href="https://github.com/roshan669/Uott">View Project</a>
+</div>
+</td>
+
 </tr>
 </table>
 
@@ -59,7 +75,12 @@ I'm always down to collaborate on cool projects, talk tech, or just exchange app
 
 <div align="center">
 
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/roshandhami">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://lookforme.online">
+<img src="https://img.shields.io/badge/portfolio-100000?style=for-the-badge&logo=portfolio&logoColor=white" />
+</a>
 
 </div>
